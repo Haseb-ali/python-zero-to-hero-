@@ -16,6 +16,7 @@ these two variables by using type function in python.Let me create some more var
 easy to understandable
 =======================
 '''
+
 '''
 =======================
 below print statement out put
